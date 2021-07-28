@@ -1,0 +1,30 @@
+{
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "给自己定个小目标，每周两道算法题，",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ZCG-ZCG/LeetCode.git"
+    },
+    "keywords": [
+        "LeetCode"
+    ],
+    "author": "ZCG",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ZCG-ZCG/LeetCode/issues"
+    },
+    "homepage": "https://github.com/ZCG-ZCG/LeetCode#readme",
+    "dependencies": {
+        "@babel/core": "^7.14.8",
+        "babel-core": "^7.0.0-bridge.0",
+        "babel-jest": "^27.0.6",
+        "babel-preset-env": "^1.7.0",
+        "jest": "^27.0.6",
+        "regenerator-runtime": "^0.13.9"
+    }
+}
